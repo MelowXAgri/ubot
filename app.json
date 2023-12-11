@@ -1,0 +1,52 @@
+{
+    "env": {
+        "BOT_TOKEN": {
+            "description": "",
+            "required": false,
+            "value": "5662215015:AAGPyGaAbKYFZB0CJPPUHvVSFmExBtZ4uSg"
+        },
+        "API_ID": {
+            "description": "",
+            "required": false,
+            "value": "28155542"
+        },
+        "API_HASH": {
+            "description": "",
+            "required": false,
+            "value": "6aa43200e5640303c03d99b8e5d3dd8a"
+        },
+        "OWNER_ID": {
+            "description": "",
+            "required": false,
+            "value": "5528575012"
+        },
+        "MONGO_URL": {
+            "description": "",
+            "required": false,
+            "value": "mongodb+srv://suker:suker@cluster0.qlhzhe1.mongodb.net/?retryWrites=true&w=majority"
+        },
+        "RMBG_API": {
+            "description": "",
+            "required": false,
+            "value": "b5ZnjZ2nUUpbdEHfcrWdjWbC"
+        },
+        "MAX_BOT": {
+            "description": "",
+            "required": false,
+            "value": "25"
+        },
+        "LOGS_MAKER_UBOT": {
+            "description": "",
+            "required": false,
+            "value": "-1002106247790"
+        },
+        "OPENAI_KEY": {
+            "description": "",
+            "required": false,
+            "value": "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"
+        }
+    },
+    "buildpacks": [
+        {"url": "heroku/python"}
+    ]
+}
